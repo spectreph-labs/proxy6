@@ -1,0 +1,13 @@
+{
+  "name": "proxy6",
+  "version": "0.1.0",
+  "description": "proxy6 API wrapper",
+  "main": "lib/proxy6.js",
+  "repository": "https://github.com/spectreph-labs/proxy6",
+  "author": "Spectreph Labs LLC",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
